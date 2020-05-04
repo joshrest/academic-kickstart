@@ -67,10 +67,10 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigator
+# {{% staticref "files/cv.pdf" "newtab" %}}Download Rest's CV{{% /staticref %}} <p>
 
 ---
-
- {{% staticref "files/cv.pdf" "newtab" %}}Download Rest's CV{{% /staticref %}} <p>
+See link above to download Rest's CV.<p>
 
 How do organisms survive in a changing world? 
 This is a fundamental question in biology that has been extremely difficult to answer. 
