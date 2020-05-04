@@ -3,7 +3,7 @@
 
 title: "Cell to Cell Expression Variation"
 summary: "Does the distribution of protein expression levels vary and evolve? Why?"
-authors: ["nina-gu","jordan-chee","Joshua-Rest"]
+authors: ["nina-gu","jordan-chee","Joshua-Rest","Kash-Bandaralage"]
 tags: []
 categories: []
 date: 2020-04-25T08:55:13-04:00
