@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xegfred Lou Quidet
+title: Xegfred Lou Quidet
 
 # Username (this should match the folder name)
 authors:

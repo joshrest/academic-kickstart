@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alex Gil Gomez
+title: Alex Gil Gomez
 
 # Username (this should match the folder name)
 authors:

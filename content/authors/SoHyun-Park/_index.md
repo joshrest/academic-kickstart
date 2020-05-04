@@ -1,6 +1,6 @@
 ---
 # Display name
-name: So Hyun-Park
+title: So Hyun-Park
 
 # Username (this should match the folder name)
 authors:

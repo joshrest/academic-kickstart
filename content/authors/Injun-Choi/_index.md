@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Injun Choi
+title: Injun Choi
 
 # Username (this should match the folder name)
 authors:

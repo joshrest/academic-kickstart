@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Anbarasu Karthikaichamy
+title: Anbarasu Karthikaichamy
 
 # Username (this should match the folder name)
 authors:

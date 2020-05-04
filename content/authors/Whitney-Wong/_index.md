@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Whitney Wong
+title: Whitney Wong
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Keffy Kehrli
+title: Keffy Kehrli
 
 # Username (this should match the folder name)
 authors:
