@@ -3,7 +3,7 @@
 
 title: "Phylogenetic Gene Expression Meta-Analysis"
 summary: "Does the expression of vertebrate genes evolve under purifying selection? Resolving the regulatory innovation paradox."
-authors: ["admin","Injun-Choi","Keffy-Kehrli","Keffy-Kehrli","Whitney-Wong"]
+authors: ["admin","Injun-Choi","Keffy-Kehrli","Whitney-Wong"]
 tags: []
 categories: []
 date: 2020-05-04T01:45:42-04:00

@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Joshua S. Rest
+title: "Joshua S. Rest"
 
-# Username (this should match the folder name)
+# Username (this should match the folder name and the name on publications)
 authors:
-- admin
+- "admin"
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
+# Role/position (e.g., Professor of Artificial Intelligence)
 role: "Associate Professor"
 
 # Organizations/Affiliations
@@ -18,10 +18,10 @@ organizations:
   url: "https://www.stonybrook.edu/ecoevo/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: 
 
-# interests:
-# - 
+# List each interest with a dash
+interests:
 
 education:
   courses:
@@ -36,6 +36,7 @@ education:
   - course: BS in Biology
     institution: Drake University
     year: 1999
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,8 +68,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigator
-# {{% staticref "files/cv.pdf" "newtab" %}}Download Rest's CV{{% /staticref %}} <p>
-# <p> <a href="https://www.stonybrook.edu/commcms/ecoevo/_program/maprogram.php">Rest is also director of the M.A. program in Ecology and Evolution.</a>
 
 ---
 See link above to download Rest's CV.<p>
