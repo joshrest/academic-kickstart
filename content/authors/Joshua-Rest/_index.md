@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Joshua S. Rest"
+title: "Joshua Rest"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "admin"
+- "Joshua-Rest"
 
 # Is this the primary user of the site?
 superuser: true
@@ -70,7 +70,7 @@ user_groups:
 - Principal Investigator
 
 ---
-See link above to download Rest's CV.<p>
+ {{% staticref "files/cv.pdf" "newtab" %}}Download Rest's CV{{% /staticref %}} <p>
 
 How do organisms survive in a changing world? 
 This is a fundamental question in biology that has been extremely difficult to answer. 
@@ -79,3 +79,4 @@ The goal of our research is to uncover the dramatic variation in the strategies 
 In order to make such inferences, some components of our work also require a good understanding of the population and phylogenetic history of genes and organisms.
 I have substantial experience in transcriptomics and computational biology. 
 I have particularly focused on the use of transcriptomes for detecting horizontal gene transfer, inferring population and coalescent processes, and synthesizing results from transcriptomic data across research studies. Recently, a component of my work has focused on inferring processes that govern levels of natural variation and modes of evolution in regulatory and metabolic phenotypes. This work involves network level data (protein interaction, metabolic, and regulatory), gene expression data, whole-genome or transcriptome sequencing data, and/or large-scale phenotypic data. In the wet lab, we have prepared RNA-seq libraries from yeast, plants, and insects. We have developed an in-house pipeline to process and quantify the results of RNA-seq experiments.
+ <p> <a href="https://www.stonybrook.edu/commcms/ecoevo/_program/maprogram.php">Rest is also director of the M.A. program in Ecology and Evolution.</a>
