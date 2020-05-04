@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Keffy Kehrli wins 3rd in 3MT"
+title: "Keffy Kehrli describes his thesis in three minutes."
 subtitle: "Winner in SBU Three Minute Thesis Virtual Competition"
 summary: ""
 authors: ["Keffy-Kehrli"]
