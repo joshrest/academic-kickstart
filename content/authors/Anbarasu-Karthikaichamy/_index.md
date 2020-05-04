@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: We use computation, experiments, and natural history to study the evolution of biological systems.
+bio: ""
 
 #interests:
 #- 
