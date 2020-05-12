@@ -21,11 +21,11 @@ organizations:
 bio: ""
 
 #interests:
--Microbial Stress Response
--Marine Biotechnology
--Molecular toolkits
--Transcriptomics and Proteomics
--Photography
+ -Microbial Stress Response
+ -Marine Biotechnology
+ -Molecular toolkits
+ -Transcriptomics and Proteomics
+ -Photography
 
 education:
   courses:
