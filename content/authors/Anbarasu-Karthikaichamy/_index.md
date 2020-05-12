@@ -21,7 +21,11 @@ organizations:
 bio: ""
 
 #interests:
-#- 
+-Microbial Stress Response
+-Marine Biotechnology
+-Molecular toolkits
+-Transcriptomics and Proteomics
+-Photography
 
 education:
   courses:
@@ -71,4 +75,5 @@ user_groups:
 - Post-docs
 
 ---
+<a href="https://anbarasu.netlify.app"> Visit Anbu's web page. </a>
 <a href="https://www.protocols.io/researchers/anbarasu-karthikaichamy1"> See Anbu's protocols at protocols.io. </a>
