@@ -4,7 +4,7 @@
 title: "Preprint: Evolution of pathogen response genes associated with increased disease susceptibility during adaptation to an extreme drought in a Brassica rapa plant population"
 subtitle: ""
 summary: ""
-authors: ["Joshua S Rest","Niamh B O'Hara"]
+authors: ["Joshua-Rest","Niamh B O'Hara"]
 tags: []
 categories: []
 date: 2021-02-17T14:18:53-05:00
