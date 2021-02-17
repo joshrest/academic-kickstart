@@ -4,7 +4,7 @@ title: Niamh O'Hara
 
 # Username (this should match the folder name)
 authors:
-- Niamh-OHara
+- Niamh B O'Hara
 
 # Is this the primary user of the site?
 superuser: false
