@@ -38,7 +38,12 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-  
+ 
+ [content.archive]
+    enable = true
+    text = "See all news posts"
+    link = "post/"
+ 
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
