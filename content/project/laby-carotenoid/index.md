@@ -3,7 +3,7 @@
 
 title: "Functional Genomics of Labyrinthulomycetes."
 summary: "Developing tools to investigate genes involved in ecologically and evolutionarily interesting labyrinthulomycete traits, including carotenoid biosynthesis and the production of the ectoplasmic network."
-authors: ["Mariana-Rius","Joshua-Rest","Xegfred-Lou-Quidet","Michael-Horowitz","Anbarasu-Karthikaichamy"]
+authors: ["Mariana-Rius","Joshua S Rest","Xegfred-Lou-Quidet","Michael-Horowitz","Anbarasu-Karthikaichamy"]
 tags: []
 categories: []
 date: 2020-04-24T14:10:45-04:00

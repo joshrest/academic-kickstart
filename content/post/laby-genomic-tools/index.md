@@ -4,7 +4,7 @@
 title: "Nature Methods paper on Marine Protist Genetic Tools"
 subtitle: "Collaboration with Jackie Collier's lab"
 summary: "We have been developing the tools and methodology for genetically transforming a single-celled marine fungus-like organism known as Aurantiochytrium limacinum ATCC MYA-1381." 
-authors: ["Joshua-Rest","Mariana-Rius"]
+authors: ["Joshua S Rest","Mariana-Rius"]
 tags: []
 categories: []
 date: 2020-04-24T11:32:19-04:00

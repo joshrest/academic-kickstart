@@ -4,7 +4,7 @@
 title: "New grant to study bothrosomes!"
 subtitle: "A unique organelle at the interface of the carbon cycle and marine food webs"
 summary: ""
-authors: ["Joshua-S-Rest","Anbarasu-Karthikaichamy"]
+authors: ["Joshua S Rest","Anbarasu-Karthikaichamy"]
 tags: []
 categories: []
 date: 2021-02-09T16:49:52-05:00
