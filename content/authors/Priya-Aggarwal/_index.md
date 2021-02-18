@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mariana Rius
+title: Priya Aggarwal
 
 # Username (this should match the folder name)
 authors:
-- Mariana-Rius
+- Priya-Aggarwal
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: SoMAS, Stony Brook University
-  url: "https://www.somas.stonybrook.edu/"
+- name: Biology, Stony Brook University
+  url: "https://www.stonybrook.edu/ugbiology/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -43,9 +43,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=vXR2PPwAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/marianarius
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/joshrest
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,9 +58,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Post-docs
-#- Visitors
+- Undergraduate Researchers
+
 ---
-<a href="https://www.protocols.io/researchers/mariana-rius"> Visit Mariana's protocols.io page. </a><p>
-<a href="https://www.stonybrook.edu/commcms/cie/ciestudentspotlight/mrius2017.php">CIE Researcher of Distinction, October 2017 </a><p>
-Mariana is a graduate student in Jackie Collier's lab who also spends a lot of time in the Rest lab.
+
+Priya is an undergraduate biology major.
