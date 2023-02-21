@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Post-docs
+- Collaborators
 #- Visitors
 ---
 <a href="https://www.protocols.io/researchers/mariana-rius"> Visit Mariana's protocols.io page. </a><p>
