@@ -9,5 +9,6 @@ featured: false
 publication: "*Genome Biology and Evolution*"
 url_pdf: "https://doi.org/10.1093/gbe/evad029"
 doi: "10.1093/gbe/evad029"
+projects: ["laby-carotenoid"] 
 ---
 

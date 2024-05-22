@@ -4,7 +4,7 @@
 title: "Network Evolution Paper"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["Alex-Gil-Gomez","Joshua-Rest"]
 tags: []
 categories: []
 date: 2024-05-22T15:02:07-04:00
@@ -25,5 +25,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Network-Evolution"]
 ---
+We propose to use the evolution of drug-drug interaction scores as a proxy for the evolution of the topology of the underlying biological networks of a bacterial cell. We test this idea by using data from a previous study that measured thousands of these scores for dual drug combinations across species. Mapping biological networks in detail is enormously costly experimentally, while mapping drug-drug interactions is much cheaper and there is evidence that such interactions depend on network topology. Our main result is that drug-drug interactions that are synergistic tend to be closer in  *E. coli* biological networks, and these interactions tend to evolve faster than nodes that are far apart in the network.

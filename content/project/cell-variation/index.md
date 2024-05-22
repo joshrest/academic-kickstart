@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cell to Cell Expression Variation"
+title: "Experimental and empirical research in regulatory evolution"
 summary: "Does the distribution of protein expression levels vary and evolve? Why?"
 authors: ["nina-gu","jordan-chee","Joshua-Rest","Kash-Bandaralage"]
 tags: []

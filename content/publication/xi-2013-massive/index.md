@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*PLoS Genet*"
+projects: ["Phylogenomics"] 
 ---
 

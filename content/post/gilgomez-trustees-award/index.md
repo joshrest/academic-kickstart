@@ -18,7 +18,7 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -27,4 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Lab member Alejandro Gil Gomez has been [awarded the Stony Brook Foundation Board of Trustees Dissertation Completion Endowed Fellowship](https://www.stonybrook.edu/grad/tuition_funding/graduate-school-programs/graduate-awards/#/awardees%202024:~:text=Alejandro%20Gil-,Gomez,-Stony%20Brook%20Foundation).
 Alejandro Gil Gomez, a PhD candidate in the Department of Ecology and Evolution, conducts research o

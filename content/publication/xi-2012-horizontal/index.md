@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*BMC genomics*"
+projects: ["Phylogenomics"] 
 ---
 

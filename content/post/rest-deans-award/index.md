@@ -28,4 +28,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Joshua Rest has been [awarded the 2024 Dean's Award for Excellence in Service by a Graduate Program Director](https://www.stonybrook.edu/grad/tuition_funding/graduate-school-programs/graduate-awards/#/awardees%202024:~:text=a%20Faculty%20Member-,Joshua,-Rest)
 Rest has served as the Ecology and Evolution PhD program director since 2022. Rest served as MA Program Director from 2016-2021. The award was presented by department chair H. Resit Akcakaya.
