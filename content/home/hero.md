@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Evolutionary genomics & gene regulation."
+title = "Evolutionary genomics."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "PrettyYEPD.jpg"
+hero_media = "GilGomez_coverimage.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -52,4 +52,4 @@ hero_media = "PrettyYEPD.jpg"
 +++
 
 Joshua Rest's lab @ <a href="https://www.stonybrook.edu/ecoevo/">Ecology and Evolution</a> @ <a href="http://www.stonybrook.edu">Stony Brook University</a>.
-We use computation, experiments, and natural history to study the evolution of biological systems. 
+We use computation and experimentation to study pattern and process in evolutionary genomics. 
