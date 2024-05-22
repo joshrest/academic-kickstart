@@ -61,12 +61,8 @@ user_groups:
 - Grad Students
 
 ---
-<a href="https://alexggo.github.io/"> Visit Alex's website.</a> <p>
+<a href="https://alexgilgomez.netlify.app/"> Visit Alex's website.</a> <p>
 
-Alejandro Gil-Gomez is a PhD student in the Ecology and Evolution Department at Stony Brook University on Long Island, New York.
+Alejandro Gil Gomez, a PhD candidate in the Department of Ecology and Evolution, conducts research on the evolution of natural antibiotics in prokaryotes. His work centers around the evolution of antibiotics, the origination and distribution of biosynthetic gene clusters within genomes and the evolution of molecular targets.
 
-His research interests include molecular evolution, phylogenetics, network biology and bioinformatics. In particular, he studies how intracellular location and protein domain structure affect the evolution of antibiotic resistance in yeast.
-
-His work focuses on the evolution of echinocandin and azole resistance in fungi, by comparing substitution rates of drug targets.
-
-He also studies the natural history of Candida auris, a recently described human pathogen that is pan-drug resistant.
+Dissertation title: The Epic Evolution of Antibiotics: Unraveling Bacterial Weaponry and Genomic Adaptations

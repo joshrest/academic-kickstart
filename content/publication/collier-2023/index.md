@@ -10,5 +10,6 @@ publication: "*Current Biology*"
 tags: ["protist genome assembly", "labyrinthulomycetes", "thraustochytrids", "endogenous viruses", "viral episome", "host-virus co-evolution", "subtelomeric rDNAs", "long repeated-telomere and rDNA spacers", "LORE-TEARS", "duplodnaviria", "varidnaviria"]
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0960982223013684"
 doi: "https://doi.org/10.1016/j.cub.2023.10.009"
+projects: ["laby-carotenoid"]  # Link to the project
 ---
 

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Functional Genomics of Labyrinthulomycetes."
+title: "Evolutionary genomics of thraustochytrids."
 summary: "Developing tools to investigate genes involved in ecologically and evolutionarily interesting labyrinthulomycete traits, including carotenoid biosynthesis and the production of the ectoplasmic network."
-authors: ["Mariana-Rius","Joshua-Rest","Michael-Horowitz","Anbarasu-Karthikaichamy"]
+authors: ["Ben-Leyland","Alex-Gil-Gomez","Mariana-Rius","Joshua-Rest","Michael-Horowitz","Anbarasu-Karthikaichamy"]
 tags: []
 categories: []
 date: 2020-04-24T14:10:45-04:00
