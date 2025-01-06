@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "New Preprint: Persistent mirusvirus infection Aurantiochytrium"
+title: "New Preprint: Persistent mirusvirus infection in Aurantiochytrium"
 subtitle: "A New Model for Understanding Viral-Host Dynamics in Marine Protists"
-summary: "Our recent preprint explores the omics of mirusviruses, dsDNA viruses with a chimeric evolutionary history. Within the marine protist Aurantiochytrium limacinum, we demonstrate active expression of viral genes and production of virions under various growth conditions, including starvation. Proteomics revealed upregulation of capsid proteins and other structural components during stress, while microscopy identified ~140 nm virions in diverse cellular locations. Our findings shed light on persistent viral infections in microbial eukaryotes and open new avenues for studying mirusvirus-host interactions."
+summary: ""
 authors: ["Joshua-Rest","Ben-Leyland"]
 tags: []
 categories: []
@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["laby-carotenoid"]
 ---
-Check out the preprint [here](https://www.researchsquare.com/article/rs-5686297/v1).
+Our recent preprint explores the omics of mirusviruses, dsDNA viruses with a chimeric evolutionary history. Within the marine protist Aurantiochytrium limacinum, we demonstrate active expression of viral genes and production of virions under various growth conditions, including starvation. Proteomics revealed upregulation of capsid proteins and other structural components during stress, while microscopy identified ~140 nm virions in diverse cellular locations. Our findings shed light on persistent viral infections in microbial eukaryotes and open new avenues for studying mirusvirus-host interactions. Check out the preprint [here](https://www.researchsquare.com/article/rs-5686297/v1).
